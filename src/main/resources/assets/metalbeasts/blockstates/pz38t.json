@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "metalbeasts:block/pz38t",
+      "scale": 10
+    },
+    "facing=east": {
+      "model": "metalbeasts:block/pz38t",
+      "y": 90,
+      "scale": 10
+    },
+    "facing=south": {
+      "model": "metalbeasts:block/pz38t",
+      "y": 180,
+      "scale": 10
+    },
+    "facing=west": {
+      "model": "metalbeasts:block/pz38t",
+      "y": 270,
+      "scale": 10
+    }
+  }
+}
